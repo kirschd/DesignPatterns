@@ -39,7 +39,7 @@ public class Constants {
     public static final String MySQLDBURL = "jdbc:mysql://localhost/";
     public static final String DatabaseName = "ElectronicMarket";
     public static final String DBUserName = "naresh";
-    public static final String DBPassword = "mydream";
+    public static final String DBPassword = "xxxxxx";
     
 	
 	
